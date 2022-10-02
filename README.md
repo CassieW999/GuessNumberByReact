@@ -1,4 +1,4 @@
-# Guess A Number Using React
+# Guess A Number Using React by Luhan Wen
 
 There are 3 screens in this app (You should have 3 different components for these) that you need to switch between them programmatically. That means that you should not be using any library for navigation. You need to have state variables to keep track of the game state (e.g. is the game over? has the user entered a number? has the user guessed correctly?) and based on those render different screens.
 
